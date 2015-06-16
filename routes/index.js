@@ -54,7 +54,6 @@ router.get('/', function(req, res, next) {
 });
 route.put('/students',function(req,res,next){
     //
-
     //
 });
 router.get('/sessions',function(req,res,next)
